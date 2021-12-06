@@ -7,7 +7,7 @@ How to run:
 3. If you haven't, install Pygame 2.0 or higher using command: pip install pygame
 4. Run the main.py file to run the game engine demo using command: python main.py
 
-Dependencies:
+----------Dependencies:-----------
 -Python v3.8 or higher
 -Pygame v2 or higher
 -image files in directory
